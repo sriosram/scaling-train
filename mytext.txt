@@ -1,1 +1,1 @@
-This is me trying to transfer this through Github. I hope this works smoothly.r
+This is me trying to transfer this through Github. I hope this works smoothly.I can't get rid of the r. I guess it will stay in the vim. Oh well, at least it worked.r
